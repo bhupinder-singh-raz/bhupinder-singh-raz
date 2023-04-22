@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Bhupinder Singh</h1>
+<h3 align="center">A Passionate Full Stack Software Developer From India. Total Experience 2 Year 4 Month.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupinder-singh-raz&label=Profile%20views&color=0e75b6&style=flat" alt="bhupinder-singh-raz" /> </p>
 
 - 🔭 I’m currently working on [my-music App](https://react-app-learning-delpoyment.web.app/)
@@ -38,3 +41,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupinder-singh-raz&show_icons=true&locale=en&layout=compact" alt="bhupinder-singh-raz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhupinder-singh-raz&show_icons=true&locale=en" alt="bhupinder-singh-raz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupinder-singh-raz&" alt="bhupinder-singh-raz" /></p>
