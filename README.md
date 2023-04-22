@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhupinder Singh</h1>
-<h3 align="center">A Passionate Full Stack Software Developer From India. Total Experience 2 Year 4 Month.</h3>
+<h3 align="center">A Passionate Full Stack Software Developer From India. Total Experience 2 Year 4 Month</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupinder-singh-raz&label=Profile%20views&color=0e75b6&style=flat" alt="bhupinder-singh-raz" /> </p>
 
