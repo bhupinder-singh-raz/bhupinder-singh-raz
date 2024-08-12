@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bhupinder-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupinder-dev" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bhupinder_raz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhupinder_raz" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bhupinder9876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bhupinder9876" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhupindersingh987686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhupindersingh987686" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@bhupindersingh987686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@bhupindersingh987686" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhupinder-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupinder-dev" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bhupinder_raz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhupinder_raz" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/bhupinder9876" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bhupinder9876" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bhupindersingh987686" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhupindersingh987686" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@bhupindersingh987686" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@bhupindersingh987686" height="30" width="40" /></a>
 </p>
 
 <br />
@@ -119,10 +119,10 @@
 
 <h3 align="left">Experience:</h3>
 <ul>
-  <li><a href="https://www.youscience.com/" target="blank">YouScience</a> (Currently Working) </li>
-  <li><a href="https://www.techolution.com/" target="blank">Techolution</a> (Full Time) </li>
-  <li><a href="https://outgrow.co/" target="blank">Outgrow</a> (Full Time) </li>
-  <li><a href="https://www.v-comply.com/" target="blank">Vcomply</a> (Full Time) </li>
+  <li><a href="https://www.youscience.com/" target="_blank">YouScience</a> (Currently Working) </li>
+  <li><a href="https://www.techolution.com/" target="_blank">Techolution</a> (Full Time) </li>
+  <li><a href="https://outgrow.co/" target="_blank">Outgrow</a> (Full Time) </li>
+  <li><a href="https://www.v-comply.com/" target="_blank">Vcomply</a> (Full Time) </li>
 </ul>
 
 <br />
