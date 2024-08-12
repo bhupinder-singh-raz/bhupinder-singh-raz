@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhupinder Singh</h1>
-<h3 align="center">A Passionate Full Stack Software Developer From India.</h3>
+<h3 align="center">Passionate Full Stack Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupinder-singh-raz&label=Profile%20views&color=0e75b6&style=flat" alt="bhupinder-singh-raz" /> </p>
 
@@ -32,9 +32,10 @@
 
 <h3 align="left">Experience:</h3>
 <ul>
-  <li><a href="https://www.techolution.com/" target="blank">Techolution</a> (currently working) </li>
-  <li><a href="https://outgrow.co/" target="blank">Outgrow</a></li>
-  <li><a href="https://www.v-comply.com/" target="blank">Vcomply</a></li>
+  <li><a href="https://www.youscience.com/" target="blank">YouScience</a> (currently working) </li>
+  <li><a href="https://www.techolution.com/" target="blank">Techolution</a> (Full Time) </li>
+  <li><a href="https://outgrow.co/" target="blank">Outgrow</a> (Full Time) </li>
+  <li><a href="https://www.v-comply.com/" target="blank">Vcomply</a> (Full Time) </li>
 </ul>
 
 <br />
