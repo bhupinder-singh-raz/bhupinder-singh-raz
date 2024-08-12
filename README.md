@@ -119,7 +119,7 @@
 
 <h3 align="left">Experience:</h3>
 <ul>
-  <li><a href="https://www.youscience.com/" target="blank">YouScience</a> (currently working) </li>
+  <li><a href="https://www.youscience.com/" target="blank">YouScience</a> (Currently Working) </li>
   <li><a href="https://www.techolution.com/" target="blank">Techolution</a> (Full Time) </li>
   <li><a href="https://outgrow.co/" target="blank">Outgrow</a> (Full Time) </li>
   <li><a href="https://www.v-comply.com/" target="blank">Vcomply</a> (Full Time) </li>
