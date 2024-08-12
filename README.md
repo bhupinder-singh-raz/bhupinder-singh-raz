@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupinder-singh-raz&label=Profile%20views&color=0e75b6&style=flat" alt="bhupinder-singh-raz" /> </p>
 
-- 🔭 I’m currently working on [my-music App](https://react-app-learning-delpoyment.web.app/)
+- 🔭 I’m currently focusing on enhancing my Data Structures and Algorithms (DSA) skills and learning AWS.
 
-- 🌱 I’m currently learning **AWS**
-
-- 💬 Ask me about **MERN, Docker, Redis**
+- 💬 Ask me about **MERN, AWS, Docker, Redis**
 
 <br />
 
