@@ -9,7 +9,7 @@
 
 <br />
 
-<h3 align="left">Connect with me:</h3>
+## <img src="https://res.cloudinary.com/dynjwlpl3/image/upload/v1676625129/Projects%20readme/dm4uz3-foekoe_u4ygwz.gif" width="25"> <b> Connect with me </b>
 <p align="left">
 <a href="https://linkedin.com/in/bhupinder-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupinder-dev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bhupinder_raz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhupinder_raz" height="30" width="40" /></a>
