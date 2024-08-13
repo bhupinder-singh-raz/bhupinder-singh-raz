@@ -20,7 +20,7 @@
 
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <p align="left">
 	<a href="https://angular.io" target="_blank" rel="noreferrer">
 		<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -127,7 +127,7 @@
 
 <br />
 
-<h3 align="left">Stats:</h3>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupinder-singh-raz&show_icons=true&locale=en&layout=compact" alt="bhupinder-singh-raz" /></p>
 
