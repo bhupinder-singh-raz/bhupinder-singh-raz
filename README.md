@@ -128,7 +128,8 @@
 <br />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-<p>
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=bhupinder-singh-raz&&hide=contribs,issues&show_icons=true&count_private=true&theme=vue-dark&border_color=41b883&bg_color=0d1117" height="139" alt="Contributions" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupinder-singh-raz&langs_count=8&layout=compact&theme=vue-dark&border_color=41b883&bg_color=0d1117" height="139" alt="Languages"/>
-</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupinder-singh-raz&show_icons=true&locale=en&layout=compact&theme=vue-dark&border_color=41b883&bg_color=0d1117" alt="bhupinder-singh-raz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhupinder-singh-raz&show_icons=true&locale=en&theme=vue-dark&border_color=41b883&bg_color=0d1117" alt="bhupinder-singh-raz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupinder-singh-raz&theme=vue-dark&border_color=41b883&bg_color=0d1117" alt="bhupinder-singh-raz" /></p>
