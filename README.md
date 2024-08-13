@@ -124,7 +124,7 @@
 
 <br />
 
-<h3 align="left">Experience:</h3>
+## <h3 align="left">Experience:</h3>
 <ul>
   <li><a href="https://www.youscience.com/" target="_blank">YouScience</a> (Currently Working) </li>
   <li><a href="https://www.techolution.com/" target="_blank">Techolution</a> (Full Time) </li>
