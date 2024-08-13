@@ -126,14 +126,12 @@
 
 <br />
 
-## <h3 align="left">Experience:</h3>
-<hr>
-<ul>
-  <li><a href="https://www.youscience.com/" target="_blank">YouScience</a> (Currently Working) </li>
-  <li><a href="https://www.techolution.com/" target="_blank">Techolution</a> (Full Time) </li>
-  <li><a href="https://outgrow.co/" target="_blank">Outgrow</a> (Full Time) </li>
-  <li><a href="https://www.v-comply.com/" target="_blank">Vcomply</a> (Full Time) </li>
-</ul>
+## Experience:
+
+- [YouScience](https://www.youscience.com/) (Currently Working)
+- [Techolution](https://www.techolution.com/) (Full Time)
+- [Outgrow](https://outgrow.co/) (Full Time)
+- [Vcomply](https://www.v-comply.com/) (Full Time)
 
 <br />
 
