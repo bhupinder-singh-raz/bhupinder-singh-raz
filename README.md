@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Bhupinder Singh</h1>
 <h3 align="center">Passionate Full Stack Software Developer.</h3> -->
 
-<img align='center' src='https://github.com/bhupinder-singh-raz/Github_Banner/blob/main/Github_Banner.png' width="2000" height="300"/>
+<img align='center' src='https://github.com/bhupinder-singh-raz/Github_Banner/blob/main/Github_Banner.png'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupinder-singh-raz&label=Profile%20views&color=0e75b6&style=flat" alt="bhupinder-singh-raz" /> </p>
 
