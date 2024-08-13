@@ -112,6 +112,14 @@
 <a href="https://mochajs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Mocha-%238D6748.svg?&style=for-the-badge&logo=mocha&logoColor=white" alt="mocha"/>
 </a>
+
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+</a>
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
+</a>
 </p>
 
 <br />
