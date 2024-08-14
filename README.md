@@ -126,7 +126,7 @@
 
 <br />
 
-## Experience:
+## Experience
 
 - [YouScience](https://www.youscience.com/) (Currently Working)
 - [Techolution](https://www.techolution.com/) (Full Time)
